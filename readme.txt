@@ -9,4 +9,4 @@ Creating a new branch is quicki AND simple.
 >>>>>>> featuel
 
 
-new text
+new texts
