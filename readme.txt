@@ -7,3 +7,6 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quicki AND simple.
 >>>>>>> featuel
+
+
+new text
