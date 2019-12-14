@@ -13,4 +13,5 @@ Creating a new branch is quicki AND simple.
 new texts
 =======
 >>>>>>> dev
-balabalabala
+<<<<<<< HEAD
+creating a new branch is quick AND simple
